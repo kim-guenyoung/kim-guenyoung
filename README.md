@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kim-guenyoung.
+- 👋 Hi, I’m Kim-Guenyoung.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C and Python.
 - 📫 How to reach me, contatct email please. (rmsdud0527@naver.com)
