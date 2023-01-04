@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=kim-guenyoung&theme=tokyomorning&show_icons=true" width="42%" />
 </a>
-
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rmsdud0527)](https://solved.ac/rmsdud0527/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-guenyoung&layout=Demo&theme=tokyomorning)
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rmsdud0527)](https://solved.ac/rmsdud0527/)
+
