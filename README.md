@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-guenyoung&layout=Demo&theme=tokyomorning)
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rmsdud0527)](https://solved.ac/rmsdud0527/&theme=tokyomorning)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rmsdud0527)](https://solved.ac/rmsdud0527)
